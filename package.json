@@ -4,7 +4,9 @@
   "description": "",
   "main": "app.js",
   "dependencies": {
+    "chai": "^4.1.1",
     "express": "^4.15.4",
+    "mocha": "^3.5.0",
     "node-dogstatsd": "0.0.6"
   },
   "devDependencies": {},
